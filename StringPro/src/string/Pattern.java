@@ -7,7 +7,7 @@ public class Pattern {
 
 	public static void pl(String a)
 	{
-		String[]s=a.split("\\s");
+		String[]s=a.split(" ");
 		for(int i=0;i<s.length;i++)
 		{
 
